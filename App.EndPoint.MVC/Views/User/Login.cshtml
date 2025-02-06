@@ -1,0 +1,44 @@
+﻿@using App.Domain.Core.Entities
+@model User
+<div class="page">
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger">
+            <ul>
+                @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    <li>@error.ErrorMessage</li>
+                }
+            </ul>
+        </div>
+    }
+    <form class="login-form" method="post" asp-action="Login">
+
+        <img src="~/pic/logo.png" alt="logo">
+        <h4>ورود </h4><br>
+
+
+        <input asp-for="UserName" placeholder="نام کاربری" type="text">
+        <span class="text-danger" asp-validation-for="UserName"></span>
+        <input asp-for="PasswordHash" placeholder="رمز عبور" type="password"><br><br>
+        <span class="text-danger" asp-validation-for="PasswordHash"></span>
+        <button type="send" class="login-btn">ورود</button>
+
+        @if (ViewBag.SuccessMessage != null)
+        {
+            <div class="alert alert-success">@ViewBag.SuccessMessage</div>
+        }
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+        }
+
+
+    </form>
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

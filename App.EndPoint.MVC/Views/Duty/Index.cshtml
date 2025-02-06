@@ -1,0 +1,82 @@
+﻿@using App.Domain.Core.DTOs
+@using Framework
+
+@model List<GetDutyDto>
+@{
+    var taskCount = ViewBag.TaskCount;
+}
+
+<div class="table-responsive">
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    }
+
+
+    <table class="table-Task" asp-action="Index">
+        <thead>
+            <tr>
+
+                <td><img src="~/pic/logo.png" alt="logo"> </td>
+                <td>لیست کارها</td>
+                <td>
+                    تعداد وظایف ناتمام :
+                    <span>@taskCount</span>
+                </td>
+                <td><a asp-action="Create" class="btn btn-secondary" type="button">ایجاد وظیفه جدید </a></td>
+            </tr>
+            <tr>
+                <th>شناسه</th>
+                <th>عنوان</th>
+                <th>توضیحات</th>
+                <th>وضعیت</th>
+
+                <th>عملیات</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.Description</td>
+
+                    <td>
+                            @if (item.IsCompleted)
+                            {
+                            <span class="badge bg-success">انجام شده</span>
+                            }
+                            else
+                            {
+                            <span class="badge bg-warning">در حال انجام</span>
+                            }
+                    </td>
+                        @*  <td>
+
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <a class="btn btn-primary" asp-controller="TaskUser" asp-action="EndTask" value="@item.IsCompleted" asp-route-id="@item.Id">پایان کار</a>
+                        <input type="checkbox" class="task-checkbox" asp-controller="TaskUser" asp-action="EndTask" asp-route-id="@item.Id" value="@item.IsCompleted" @(@item.IsCompleted ? "انجام شده" : "") />
+                    </td> *@
+                    <td>
+
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <a class="btn btn-primary" asp-controller="TaskUser" asp-action="EndTask" value="@item.IsCompleted" asp-route-id="@item.Id">پایان</a>
+                        <a class="btn btn-secondary" asp-controller="TaskUser" asp-action="Preview" asp-route-id="@item.Id">نمایش</a>
+                        <a class="btn btn-danger" asp-controller="TaskUser" asp-action="Delete" asp-route-id="@item.Id">حذف</a>
+                        <a class="btn btn-warning" asp-controller="TaskUser" asp-action="Update" asp-route-id="@item.Id">ویرایش</a>
+                    </td>
+                </tr>
+                }
+        </tbody>
+        </tbody>
+
+    </table>
+
+
+</div>

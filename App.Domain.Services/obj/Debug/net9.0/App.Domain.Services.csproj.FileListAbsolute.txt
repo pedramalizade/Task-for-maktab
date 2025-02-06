@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\App.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\App.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\App.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\App.Domain.Services.AssemblyInfo.cs
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\App.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\HW21\App.Domain.Services\bin\Debug\net9.0\App.Domain.Services.deps.json
+C:\Users\asus\source\repos\HW21\App.Domain.Services\bin\Debug\net9.0\App.Domain.Services.dll
+C:\Users\asus\source\repos\HW21\App.Domain.Services\bin\Debug\net9.0\App.Domain.Services.pdb
+C:\Users\asus\source\repos\HW21\App.Domain.Services\bin\Debug\net9.0\App.Domain.Core.dll
+C:\Users\asus\source\repos\HW21\App.Domain.Services\bin\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\App.Doma.EF676C44.Up2Date
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\App.Domain.Services.dll
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\refint\App.Domain.Services.dll
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\App.Domain.Services.pdb
+C:\Users\asus\source\repos\HW21\App.Domain.Services\obj\Debug\net9.0\ref\App.Domain.Services.dll

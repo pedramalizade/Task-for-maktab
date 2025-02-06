@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\HW21\DutyAppServices\bin\Debug\net9.0\App.Domain.AppService.deps.json
+C:\Users\asus\source\repos\HW21\DutyAppServices\bin\Debug\net9.0\App.Domain.AppService.dll
+C:\Users\asus\source\repos\HW21\DutyAppServices\bin\Debug\net9.0\App.Domain.AppService.pdb
+C:\Users\asus\source\repos\HW21\DutyAppServices\bin\Debug\net9.0\App.Domain.Core.dll
+C:\Users\asus\source\repos\HW21\DutyAppServices\bin\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\App.Domain.AppService.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\App.Domain.AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\App.Domain.AppService.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\App.Domain.AppService.AssemblyInfo.cs
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\App.Domain.AppService.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\App.Doma.FD0AC67D.Up2Date
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\App.Domain.AppService.dll
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\refint\App.Domain.AppService.dll
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\App.Domain.AppService.pdb
+C:\Users\asus\source\repos\HW21\DutyAppServices\obj\Debug\net9.0\ref\App.Domain.AppService.dll

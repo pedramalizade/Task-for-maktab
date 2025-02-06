@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\App.Domain.Core\App.Domain.Core.csproj" />
+    <ProjectReference Include="..\App.Domain.Services\App.Domain.Services.csproj" />
+    <ProjectReference Include="..\App.Infra.Data.Ef\App.Infra.Data.Ef.csproj" />
+    <ProjectReference Include="..\App.Infra.Data.SqlServer.Ef\App.Infra.Data.SqlServer.Ef.csproj" />
+    <ProjectReference Include="..\DutyAppServices\App.Domain.AppService.csproj" />
+    <ProjectReference Include="..\Framework\Framework.csproj" />
+  </ItemGroup>
+
+</Project>

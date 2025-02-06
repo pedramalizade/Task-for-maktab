@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\HW21\Framework\bin\Debug\net9.0\Framework.deps.json
+C:\Users\asus\source\repos\HW21\Framework\bin\Debug\net9.0\Framework.dll
+C:\Users\asus\source\repos\HW21\Framework\bin\Debug\net9.0\Framework.pdb
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\Framework.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\Framework.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\Framework.AssemblyInfo.cs
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\Framework.dll
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\refint\Framework.dll
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\Framework.pdb
+C:\Users\asus\source\repos\HW21\Framework\obj\Debug\net9.0\ref\Framework.dll

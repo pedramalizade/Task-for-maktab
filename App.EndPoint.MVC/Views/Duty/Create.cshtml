@@ -1,0 +1,31 @@
+﻿@using App.Domain.Core.Entities
+@model Duty
+<div class="container px-5 my-5">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <form method="post" asp-action="Create">
+        <img src="~/pic/logo.png" alt="logo">
+
+        <h4>فرم ایجاد وظایف</h4><br>
+
+
+        <input asp-for="Title" type="text" placeholder="عنوان وظیفه" /><br />
+        <span class="text-danger" asp-validation-for="Title"></span>
+        <input asp-for="Description" type="text" placeholder="توضیحات" />
+      
+        <button type="send" class="Transfer-btn">ثبت</button>
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+        }
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+        }
+    </form>
+</div>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+

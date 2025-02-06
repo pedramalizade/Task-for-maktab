@@ -1,0 +1,35 @@
+﻿@using App.Domain.Core.Entities
+@model Duty
+<div class="container px-5 my-5">
+
+    <form method="post" asp-action="Update">
+
+
+        <input asp-for="Title" type="text" placeholder="عنوان" value="@Model.Title" />
+        <span class="text-danger" asp-validation-for="Title"></span>
+        <input asp-for="Description" type="text" placeholder="توضیحات" value="@Model.Description" />
+        <span class="text-danger" asp-validation-for="Description"></span>
+        <label class="checkbox-container">
+            <span>کار انجام شده؟</span>
+            <input asp-for="IsCompleted" class="task-checkbox" type="checkbox" placeholder="وضعیت" value="True" />
+
+        </label>
+
+        <span class="text-danger" asp-validation-for="IsCompleted"></span>
+        <button type="send" class="Transfer-btn">ثبت ویرایش</button>
+        @if (ViewBag.SuccessMessage != null)
+        {
+            <div class="alert alert-success">@ViewBag.SuccessMessage</div>
+        }
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+        }
+
+    </form>
+</div>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+

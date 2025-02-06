@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\HW21\App.Domain.Core\bin\Debug\net9.0\App.Domain.Core.deps.json
+C:\Users\asus\source\repos\HW21\App.Domain.Core\bin\Debug\net9.0\App.Domain.Core.dll
+C:\Users\asus\source\repos\HW21\App.Domain.Core\bin\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.AssemblyInfo.cs
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.dll
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\refint\App.Domain.Core.dll
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\asus\source\repos\HW21\App.Domain.Core\obj\Debug\net9.0\ref\App.Domain.Core.dll

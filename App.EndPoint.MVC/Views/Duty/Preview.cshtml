@@ -1,0 +1,18 @@
+﻿@using App.Domain.Core.Entities
+@model Duty
+<div class="container px-5 my-5">
+
+    <form method="post" asp-action="Preview">
+
+
+        <input disabled name="Id" type="text" placeholder="شناسه" data-sb-validations="required" value="@Model.Id" />
+
+
+        <input disabled asp-for="Title" type="text" placeholder="عنوان" data-sb-validations="required" value="@Model.Title" />
+        <input disabled asp-for="Description" type="text" placeholder="توضیحات" data-sb-validations="required" value="@Model.Description" />
+        <input disabled asp-for="IsCompleted" type="text" placeholder="وضعیت" data-sb-validations="required" value="@Model.IsCompleted" />
+
+    </form>
+</div>
+
+
