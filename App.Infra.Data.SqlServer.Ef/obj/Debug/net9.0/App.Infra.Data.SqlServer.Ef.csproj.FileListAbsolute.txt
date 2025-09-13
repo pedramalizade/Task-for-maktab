@@ -15,3 +15,4 @@ C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\App
 C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\ref\App.Infra.Data.SqlServer.Ef.dll
 C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.SqlServer.Ef.runtimeconfig.json
 C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.SqlServer.Ef.genruntimeconfig.cache
+C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.SqlServer.Ef.sourcelink.json

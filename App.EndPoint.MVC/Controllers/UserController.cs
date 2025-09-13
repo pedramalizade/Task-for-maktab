@@ -35,7 +35,7 @@ namespace App.EndPoint.MVC.Controllers
             if (result.Succeeded)
             {
 
-                return RedirectToAction("Login", "UserT");
+                return RedirectToAction("Login", "User");
             }
 
 

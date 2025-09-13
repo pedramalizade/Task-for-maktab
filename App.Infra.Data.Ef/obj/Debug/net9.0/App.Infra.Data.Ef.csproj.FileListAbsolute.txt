@@ -15,3 +15,4 @@ C:\Users\asus\source\repos\HW21\App.Infra.Data.Ef\obj\Debug\net9.0\App.Infra.Dat
 C:\Users\asus\source\repos\HW21\App.Infra.Data.Ef\obj\Debug\net9.0\refint\App.Infra.Data.Ef.dll
 C:\Users\asus\source\repos\HW21\App.Infra.Data.Ef\obj\Debug\net9.0\App.Infra.Data.Ef.pdb
 C:\Users\asus\source\repos\HW21\App.Infra.Data.Ef\obj\Debug\net9.0\ref\App.Infra.Data.Ef.dll
+C:\Users\asus\source\repos\HW21\App.Infra.Data.Ef\obj\Debug\net9.0\App.Infra.Data.Ef.sourcelink.json
