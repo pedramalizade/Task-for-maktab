@@ -1,12 +1,4 @@
-﻿using App.Domain.Core.AppService;
-using App.Domain.Core.Entities;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
-using System.Reflection;
-using System.Threading.Tasks;
-
-namespace App.EndPoint.MVC.Controllers
+﻿namespace App.EndPoint.MVC.Controllers
 {
     [Authorize(Roles = "Admin")]
     public class DutyController : Controller

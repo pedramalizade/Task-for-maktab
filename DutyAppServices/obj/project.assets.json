@@ -1729,11 +1729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\App.Domain.AppService.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\App.Domain.AppService.csproj",
       "projectName": "App.Domain.AppService",
-      "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\App.Domain.AppService.csproj",
+      "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\App.Domain.AppService.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1754,8 +1754,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj"
+            "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj"
             }
           }
         }
@@ -1800,5 +1800,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Identity' 2.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2865-hh9g-w894",
+      "libraryId": "Microsoft.AspNetCore.Identity",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

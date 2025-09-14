@@ -1,15 +1,4 @@
-﻿using App.Domain.Core.AppService;
-using App.Domain.Core.Config;
-using App.Domain.Core.DTOs;
-using App.Domain.Core.Result;
-using App.Domain.Core.Service;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace App.Domain.AppService.Duty
+﻿namespace App.Domain.AppService.Duty
 {
     public class DutyAppService : IDutyAppService
     {

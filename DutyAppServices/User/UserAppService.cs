@@ -1,15 +1,4 @@
-﻿using App.Domain.Core.AppService;
-using App.Domain.Core.Entities;
-using App.Domain.Core.Service;
-using Microsoft.AspNetCore.Identity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace App.Domain.AppService.User
+﻿namespace App.Domain.AppService.User
 {
     public class UserAppService : IUserAppService
     {
@@ -27,17 +16,9 @@ namespace App.Domain.AppService.User
             return result.Succeeded ? IdentityResult.Success : IdentityResult.Failed();
         }
 
-        public async Task<IdentityResult> Register(Core.Entities.User user, CancellationToken cancellationToken)
+        public async Task<IdentityResult> Register(Core.Entities.User user, string password, CancellationToken cancellationToken)
         {
-            var user1 = new Domain.Core.Entities.User
-            {
-                UserName = user.UserName,
-                Email = user.Email,
-                PasswordHash = user.PasswordHash
-            };
-
-
-            var result = await _userManager.CreateAsync(user, user.PasswordHash);
+            var result = await _userManager.CreateAsync(user, password);
 
             if (result.Succeeded)
             {

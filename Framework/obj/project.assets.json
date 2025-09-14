@@ -467,11 +467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\Framework.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\Framework.csproj",
       "projectName": "Framework",
-      "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\Framework.csproj",
+      "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\Framework.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

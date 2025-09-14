@@ -1,15 +1,4 @@
-﻿using App.Domain.Core.Data.Repository;
-using App.Domain.Core.DTOs;
-using App.Domain.Core.Entities;
-using App.Infra.Data.SqlServer.Ef.ApplicationDbContext;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace App.Infra.Data.Ef.User
+﻿namespace App.Infra.Data.Ef.User
 {
     public class DutyRepository : IDutyRepository
     {

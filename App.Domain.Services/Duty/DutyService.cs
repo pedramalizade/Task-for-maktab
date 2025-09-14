@@ -1,15 +1,4 @@
-﻿using App.Domain.Core.Data.Repository;
-using App.Domain.Core.DTOs;
-using App.Domain.Core.Entities;
-using App.Domain.Core.Service;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace App.Domain.Services.Duty
+﻿namespace App.Domain.Services.Duty
 {
     public class DutyService : IDutyService
     {

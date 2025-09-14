@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zTURATADkx0=",
+  "dgSpecHash": "0wG61IyoHQg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Services\\App.Domain.Services.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Services\\App.Domain.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.1\\microsoft.aspnetcore.cryptography.internal.9.0.1.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\9.0.1\\microsoft.aspnetcore.cryptography.keyderivation.9.0.1.nupkg.sha512",

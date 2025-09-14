@@ -17,65 +17,65 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App.EndPoint.MVC
 build_property.RootNamespace = App.EndPoint.MVC
-build_property.ProjectDir = C:\Users\asus\source\repos\HW21\App.EndPoint.MVC\
+build_property.ProjectDir = C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\asus\source\repos\HW21\App.EndPoint.MVC
+build_property.MSBuildProjectDirectory = C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Duty/Create.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Duty/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV0eVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Duty/Index.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Duty/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV0eVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Duty/Preview.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Duty/Preview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV0eVxQcmV2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Duty/Update.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Duty/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV0eVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Home/Index.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Home/Privacy.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Shared/Error.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/User/Login.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/User/Register.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/User/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/_ViewImports.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/_ViewStart.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/source/repos/HW21/App.EndPoint.MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/asus/Source/Repos/Task-for-maktab/App.EndPoint.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f898rb5cvx

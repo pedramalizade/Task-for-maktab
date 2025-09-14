@@ -1,10 +1,4 @@
-﻿using App.Domain.Core.AppService;
-using App.Domain.Core.Entities;
-using App.EndPoint.MVC.Models;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
-
-namespace App.EndPoint.MVC.Controllers
+﻿namespace App.EndPoint.MVC.Controllers
 {
     public class UserController : Controller
     {
@@ -21,30 +15,40 @@ namespace App.EndPoint.MVC.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Register(User user, CancellationToken cToken)
+        public async Task<IActionResult> Register(RegisterViewModel model, CancellationToken cToken)
         {
             if (!ModelState.IsValid)
-                return View(user);
-            if (string.IsNullOrWhiteSpace(user.PasswordHash) || string.IsNullOrWhiteSpace(user.UserName) || string.IsNullOrWhiteSpace(user.Email))
+                return View(model);
+
+            if (string.IsNullOrWhiteSpace(model.Password) ||
+                string.IsNullOrWhiteSpace(model.UserName) ||
+                string.IsNullOrWhiteSpace(model.Email))
             {
-                ModelState.AddModelError(string.Empty, "فیلدهای خالی رو پر کنید.");
-                return View(user);
+                ModelState.AddModelError(string.Empty, "فیلدهای خالی را پر کنید.");
+                return View(model);
             }
-            var result = await _userAppService.Register(user, cToken);
+
+            var user = new User
+            {
+                UserName = model.UserName,
+                Email = model.Email,
+                FirstName = model.FirstName,
+                LastName = model.LastName
+            };
+
+            var result = await _userAppService.Register(user, model.Password, cToken);
 
             if (result.Succeeded)
             {
-
-                return RedirectToAction("Login", "UserT");
+                return RedirectToAction("Login", "User");
             }
-
 
             foreach (var error in result.Errors)
             {
                 ModelState.AddModelError(string.Empty, error.Description);
             }
 
-            return View(user);
+            return View(model);
         }
         [HttpGet]
         public IActionResult Login()

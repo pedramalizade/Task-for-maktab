@@ -1,7 +1,7 @@
-﻿@using App.Domain.Core.Entities
-@model User
+﻿@using App.Domain.Core.DTOs
+@using App.Domain.Core.Entities
+@model RegisterViewModel
 <div class="page">
-
     @if (!ViewData.ModelState.IsValid)
     {
         <div class="alert alert-danger">
@@ -13,26 +13,28 @@
             </ul>
         </div>
     }
+
     <form class="register-form" method="post" asp-action="Register">
-
         <img src="~/pic/logo.png" alt="logo">
-        <h4>ثبت نام </h4><br>
-
+        <h4>ثبت نام</h4><br>
 
         <input placeholder="نام کاربری" type="text" asp-for="UserName"><br>
         <span class="text-danger" asp-validation-for="UserName"></span>
-        <input placeholder="ایمیل" type="text" asp-for="Email"><br>
+
+        <input placeholder="ایمیل" type="email" asp-for="Email"><br>
         <span class="text-danger" asp-validation-for="Email"></span>
-        <input placeholder="رمز عبور" type="password" asp-for="PasswordHash"><br><br>
-        <span class="text-danger" asp-validation-for="PasswordHash"></span>
-        <button type="send" class="register-btn">ثبت نام</button>
 
+        <input placeholder="رمز عبور" type="password" asp-for="Password"><br><br>
+        <span class="text-danger" asp-validation-for="Password"></span>
 
+        <input placeholder="نام" type="text" asp-for="FirstName"><br>
+        <input placeholder="نام خانوادگی" type="text" asp-for="LastName"><br>
+
+        <button type="submit" class="register-btn">ثبت نام</button>
     </form>
 </div>
+
 @section Scripts
 {
     <partial name="_ValidationScriptsPartial" />
 }
-
-

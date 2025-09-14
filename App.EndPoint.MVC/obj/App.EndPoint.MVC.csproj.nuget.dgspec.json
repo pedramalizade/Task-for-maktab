@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj": {}
+    "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj": {
+    "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj",
         "projectName": "App.Domain.Core",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Services\\App.Domain.Services.csproj": {
+    "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Services\\App.Domain.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Services\\App.Domain.Services.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Services\\App.Domain.Services.csproj",
         "projectName": "App.Domain.Services",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Services\\App.Domain.Services.csproj",
+        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Services\\App.Domain.Services.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Services\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj": {
+    "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj",
         "projectName": "App.EndPoint.MVC",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj",
+        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.EndPoint.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,23 +172,23 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj"
               },
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Services\\App.Domain.Services.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Services\\App.Domain.Services.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Services\\App.Domain.Services.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Services\\App.Domain.Services.csproj"
               },
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj"
               },
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj"
               },
-              "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\App.Domain.AppService.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\App.Domain.AppService.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\App.Domain.AppService.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\App.Domain.AppService.csproj"
               },
-              "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\Framework.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\Framework.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\Framework.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\Framework.csproj"
               }
             }
           }
@@ -239,14 +239,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj": {
+    "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj",
         "projectName": "App.Infra.Data.Ef",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj",
+        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.Ef\\App.Infra.Data.Ef.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.Ef\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.Ef\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -267,11 +267,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj"
               },
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj"
               }
             }
           }
@@ -311,14 +311,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj": {
+    "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj",
         "projectName": "App.Infra.Data.SqlServer.Ef",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj",
+        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Infra.Data.SqlServer.Ef\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -339,8 +339,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj"
               }
             }
           }
@@ -396,14 +396,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\App.Domain.AppService.csproj": {
+    "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\App.Domain.AppService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\App.Domain.AppService.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\App.Domain.AppService.csproj",
         "projectName": "App.Domain.AppService",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\App.Domain.AppService.csproj",
+        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\App.Domain.AppService.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\DutyAppServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -424,8 +424,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\App.Domain.Core.csproj"
+              "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.Domain.Core\\App.Domain.Core.csproj"
               }
             }
           }
@@ -471,14 +471,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\Framework.csproj": {
+    "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\Framework.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\Framework.csproj",
         "projectName": "Framework",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\Framework.csproj",
+        "projectPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\Framework.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\HW21\\Framework\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

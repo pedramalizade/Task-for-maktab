@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lhXq5TiZfS0=",
+  "dgSpecHash": "MNvYCprbIDc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Source\\Repos\\Task-for-maktab\\App.EndPoint.MVC\\App.EndPoint.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

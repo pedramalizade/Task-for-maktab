@@ -1,7 +1,3 @@
-using App.EndPoint.MVC.Models;
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-
 namespace App.EndPoint.MVC.Controllers
 {
     public class HomeController : Controller
