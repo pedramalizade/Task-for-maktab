@@ -1,7 +1,65 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\Task-for-maktab\\",
   "Documents": [],
+=======
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\HW21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.endpoint.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|solutionrelative:app.endpoint.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.endpoint.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|solutionrelative:app.endpoint.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.endpoint.mvc\\controllers\\dutycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|solutionrelative:app.endpoint.mvc\\controllers\\dutycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.endpoint.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|solutionrelative:app.endpoint.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.endpoint.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EDA1D0-18AC-4098-9D75-FDD87B8933BC}|App.EndPoint.MVC\\App.EndPoint.MVC.csproj|solutionrelative:app.endpoint.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44981E7-9009-4A83-9BC5-497C7F520005}|App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.infra.data.sqlserver.ef\\configuration\\dutyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44981E7-9009-4A83-9BC5-497C7F520005}|App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj|solutionrelative:app.infra.data.sqlserver.ef\\configuration\\dutyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44981E7-9009-4A83-9BC5-497C7F520005}|App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.infra.data.sqlserver.ef\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44981E7-9009-4A83-9BC5-497C7F520005}|App.Infra.Data.SqlServer.Ef\\App.Infra.Data.SqlServer.Ef.csproj|solutionrelative:app.infra.data.sqlserver.ef\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3240F7-FCB5-4612-BEE4-FF0BC07A6B9A}|DutyAppServices\\App.Domain.AppService.csproj|c:\\users\\asus\\source\\repos\\hw21\\dutyappservices\\duty\\dutyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3240F7-FCB5-4612-BEE4-FF0BC07A6B9A}|DutyAppServices\\App.Domain.AppService.csproj|solutionrelative:dutyappservices\\duty\\dutyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3240F7-FCB5-4612-BEE4-FF0BC07A6B9A}|DutyAppServices\\App.Domain.AppService.csproj|c:\\users\\asus\\source\\repos\\hw21\\dutyappservices\\user\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3240F7-FCB5-4612-BEE4-FF0BC07A6B9A}|DutyAppServices\\App.Domain.AppService.csproj|solutionrelative:dutyappservices\\user\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2794BE22-1258-4557-AEB2-44CCAB37E32E}|App.Domain.Core\\App.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.domain.core\\appservice\\iuserappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2794BE22-1258-4557-AEB2-44CCAB37E32E}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\appservice\\iuserappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2794BE22-1258-4557-AEB2-44CCAB37E32E}|App.Domain.Core\\App.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.domain.core\\entities\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2794BE22-1258-4557-AEB2-44CCAB37E32E}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\entities\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2794BE22-1258-4557-AEB2-44CCAB37E32E}|App.Domain.Core\\App.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.domain.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2794BE22-1258-4557-AEB2-44CCAB37E32E}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2794BE22-1258-4557-AEB2-44CCAB37E32E}|App.Domain.Core\\App.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\hw21\\app.domain.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2794BE22-1258-4557-AEB2-44CCAB37E32E}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> 6af6ac763dc691af9337551e93d0c8703d0db463
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +67,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 747,
+<<<<<<< HEAD
           "SelectedChildIndex": -1,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> 6af6ac763dc691af9337551e93d0c8703d0db463
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +84,166 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "App.EndPoint.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\Program.cs",
+              "RelativeToolTip": "App.EndPoint.MVC\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAABIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:13:04.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "App.EndPoint.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\appsettings.json",
+              "RelativeToolTip": "App.EndPoint.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T16:12:23.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App.EndPoint.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App.EndPoint.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T07:41:27.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "App.EndPoint.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "App.EndPoint.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:40:37.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DutyController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\Controllers\\DutyController.cs",
+              "RelativeDocumentMoniker": "App.EndPoint.MVC\\Controllers\\DutyController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.EndPoint.MVC\\Controllers\\DutyController.cs",
+              "RelativeToolTip": "App.EndPoint.MVC\\Controllers\\DutyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:40:33.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DutyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\Configuration\\DutyConfiguration.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.SqlServer.Ef\\Configuration\\DutyConfiguration.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\Configuration\\DutyConfiguration.cs",
+              "RelativeToolTip": "App.Infra.Data.SqlServer.Ef\\Configuration\\DutyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:39:54.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "App.Infra.Data.SqlServer.Ef\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.Infra.Data.SqlServer.Ef\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "App.Infra.Data.SqlServer.Ef\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:39:50.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DutyAppService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\Duty\\DutyAppService.cs",
+              "RelativeDocumentMoniker": "DutyAppServices\\Duty\\DutyAppService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\Duty\\DutyAppService.cs",
+              "RelativeToolTip": "DutyAppServices\\Duty\\DutyAppService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:39:19.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAppService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\User\\UserAppService.cs",
+              "RelativeDocumentMoniker": "DutyAppServices\\User\\UserAppService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\DutyAppServices\\User\\UserAppService.cs",
+              "RelativeToolTip": "DutyAppServices\\User\\UserAppService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:38:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserAppService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\AppService\\IUserAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\AppService\\IUserAppService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\AppService\\IUserAppService.cs",
+              "RelativeToolTip": "App.Domain.Core\\AppService\\IUserAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:38:45.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\Entities\\Role.cs",
+              "RelativeToolTip": "App.Domain.Core\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:38:34.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\Entities\\User.cs",
+              "RelativeToolTip": "App.Domain.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:38:32.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Duty.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\Entities\\Duty.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Entities\\Duty.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\HW21\\App.Domain.Core\\Entities\\Duty.cs",
+              "RelativeToolTip": "App.Domain.Core\\Entities\\Duty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:38:28.821Z"
+>>>>>>> 6af6ac763dc691af9337551e93d0c8703d0db463
             }
           ]
         }

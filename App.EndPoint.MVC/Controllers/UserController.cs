@@ -40,6 +40,10 @@
 
             if (result.Succeeded)
             {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6af6ac763dc691af9337551e93d0c8703d0db463
                 return RedirectToAction("Login", "User");
             }
 

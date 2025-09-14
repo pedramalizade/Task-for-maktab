@@ -21,7 +21,6 @@
         <thead>
             <tr>
 
-                <td><img src="~/pic/logo.png" alt="logo"> </td>
                 <td>لیست کارها</td>
                 <td>
                     تعداد وظایف ناتمام :
@@ -66,10 +65,10 @@
                     <td>
 
                         <input type="hidden" name="id" value="@item.Id" />
-                        <a class="btn btn-primary" asp-controller="TaskUser" asp-action="EndTask" value="@item.IsCompleted" asp-route-id="@item.Id">پایان</a>
-                        <a class="btn btn-secondary" asp-controller="TaskUser" asp-action="Preview" asp-route-id="@item.Id">نمایش</a>
-                        <a class="btn btn-danger" asp-controller="TaskUser" asp-action="Delete" asp-route-id="@item.Id">حذف</a>
-                        <a class="btn btn-warning" asp-controller="TaskUser" asp-action="Update" asp-route-id="@item.Id">ویرایش</a>
+                        <a class="btn btn-primary" asp-controller="Duty" asp-action="EndTask" value="@item.IsCompleted" asp-route-id="@item.Id">پایان</a>
+                        <a class="btn btn-secondary" asp-controller="Duty" asp-action="Preview" asp-route-id="@item.Id">نمایش</a>
+                        <a class="btn btn-danger" asp-controller="Duty" asp-action="Delete" asp-route-id="@item.Id">حذف</a>
+                        <a class="btn btn-warning" asp-controller="Duty" asp-action="Update" asp-route-id="@item.Id">ویرایش</a>
                     </td>
                 </tr>
                 }

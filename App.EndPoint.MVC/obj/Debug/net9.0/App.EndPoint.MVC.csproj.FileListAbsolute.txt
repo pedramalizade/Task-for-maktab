@@ -247,6 +247,7 @@ C:\Users\asus\source\repos\HW21\App.EndPoint.MVC\bin\Debug\net9.0\ru\Microsoft.C
 C:\Users\asus\source\repos\HW21\App.EndPoint.MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\asus\source\repos\HW21\App.EndPoint.MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\asus\source\repos\HW21\App.EndPoint.MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+<<<<<<< HEAD
 C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC\bin\Debug\net9.0\appsettings.json
 C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC\bin\Debug\net9.0\App.EndPoint.MVC.staticwebassets.runtime.json
@@ -497,3 +498,6 @@ C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC\obj\Debug\net9.0\ref
 C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC\obj\Debug\net9.0\App.EndPoint.MVC.pdb
 C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC\obj\Debug\net9.0\App.EndPoint.MVC.genruntimeconfig.cache
 C:\Users\asus\Source\Repos\Task-for-maktab\App.EndPoint.MVC\obj\Debug\net9.0\ref\App.EndPoint.MVC.dll
+=======
+C:\Users\asus\source\repos\HW21\App.EndPoint.MVC\obj\Debug\net9.0\App.EndPoint.MVC.sourcelink.json
+>>>>>>> 6af6ac763dc691af9337551e93d0c8703d0db463

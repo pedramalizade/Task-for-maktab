@@ -15,6 +15,7 @@ C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\App
 C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\ref\App.Infra.Data.SqlServer.Ef.dll
 C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.SqlServer.Ef.runtimeconfig.json
 C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.SqlServer.Ef.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Users\asus\Source\Repos\Task-for-maktab\App.Infra.Data.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.SqlServer.Ef.deps.json
 C:\Users\asus\Source\Repos\Task-for-maktab\App.Infra.Data.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.SqlServer.Ef.runtimeconfig.json
 C:\Users\asus\Source\Repos\Task-for-maktab\App.Infra.Data.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.SqlServer.Ef.dll
@@ -33,3 +34,6 @@ C:\Users\asus\Source\Repos\Task-for-maktab\App.Infra.Data.SqlServer.Ef\obj\Debug
 C:\Users\asus\Source\Repos\Task-for-maktab\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.SqlServer.Ef.pdb
 C:\Users\asus\Source\Repos\Task-for-maktab\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.SqlServer.Ef.genruntimeconfig.cache
 C:\Users\asus\Source\Repos\Task-for-maktab\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\ref\App.Infra.Data.SqlServer.Ef.dll
+=======
+C:\Users\asus\source\repos\HW21\App.Infra.Data.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.SqlServer.Ef.sourcelink.json
+>>>>>>> 6af6ac763dc691af9337551e93d0c8703d0db463
